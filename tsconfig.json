@@ -3,7 +3,8 @@
         "module": "amd",
         "target": "es5",
         "noImplicitAny": false,
-        "sourceMap": false,
+        "sourceMap": true,
+        "rootDir": "src",
         "outDir": "js",
         "allowJs": true
 

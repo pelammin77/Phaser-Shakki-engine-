@@ -36,3 +36,4 @@ define(["require", "exports", "./pelaaja", "./apuEnumit"], function (require, ex
     exports.MustaPelaaja = MustaPelaaja;
     exports.default = MustaPelaaja;
 });
+//# sourceMappingURL=MustaPelaaja.js.map

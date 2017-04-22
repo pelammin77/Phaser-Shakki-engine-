@@ -71,3 +71,4 @@ define(["require", "exports", "./Nappula", "./apu", "./Siirto"], function (requi
     exports.Kuningatar = Kuningatar;
     exports.default = Kuningatar;
 });
+//# sourceMappingURL=kuningatar.js.map

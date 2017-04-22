@@ -13,3 +13,4 @@ define(["require", "exports"], function (require, exports) {
         SIIRON_STATUS[SIIRON_STATUS["LAITON_SIIRTO"] = 2] = "LAITON_SIIRTO";
     })(SIIRON_STATUS = exports.SIIRON_STATUS || (exports.SIIRON_STATUS = {}));
 });
+//# sourceMappingURL=apuEnumit.js.map

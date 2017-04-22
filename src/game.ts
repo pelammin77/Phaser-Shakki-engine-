@@ -1,6 +1,6 @@
 import Lauta from "./Lauta";
 import Ruutu from "./ruutu";
-import {Nappula, } from './Nappula';
+import {Nappula} from './Nappula';
 
  
 
@@ -14,9 +14,9 @@ function preload() {
 
     game.stage.backgroundColor = "#4488AA";
  
-    game.load.spritesheet("nappulat","figures.png",56,50);
-    game.load.image("tile", 'tile.png');
-     game.load.image("tileB", 'tileB.png');
+    game.load.spritesheet("nappulat","../kuvat/figures.png",56,50);
+    game.load.image("tile", '../kuvat/tile.png');
+     game.load.image("tileB", '../kuvat/tileB.png');
 }
 
 function create() {

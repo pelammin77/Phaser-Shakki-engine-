@@ -70,3 +70,4 @@ define(["require", "exports", "./Nappula", "./apu", "./Siirto"], function (requi
     exports.Lahetti = Lahetti;
     exports.default = Lahetti;
 });
+//# sourceMappingURL=Lahetti.js.map

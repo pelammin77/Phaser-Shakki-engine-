@@ -50,3 +50,4 @@ define(["require", "exports"], function (require, exports) {
     }
     exports.onkoLaillinenRuutu = onkoLaillinenRuutu;
 });
+//# sourceMappingURL=apu.js.map

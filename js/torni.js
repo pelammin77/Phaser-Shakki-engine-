@@ -67,3 +67,4 @@ define(["require", "exports", "./Nappula", "./apu", "./Siirto"], function (requi
     exports.Torni = Torni;
     exports.default = Torni;
 });
+//# sourceMappingURL=torni.js.map

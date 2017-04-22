@@ -87,3 +87,4 @@ define(["require", "exports", "./Nappula", "./apuEnumit", "./apu", "./Siirto"], 
     exports.Sotilas = Sotilas;
     exports.default = Sotilas;
 });
+//# sourceMappingURL=sotilas.js.map

@@ -37,3 +37,4 @@ define(["require", "exports", "./pelaaja", "./apuEnumit"], function (require, ex
     exports.ValkoinenPelaaja = ValkoinenPelaaja;
     exports.default = ValkoinenPelaaja;
 });
+//# sourceMappingURL=valkoinenPelaaja.js.map

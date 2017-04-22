@@ -52,3 +52,4 @@ define(["require", "exports", "./apu"], function (require, exports, apu_1) {
     exports.Ruutu = Ruutu;
     exports.default = Ruutu;
 });
+//# sourceMappingURL=ruutu.js.map

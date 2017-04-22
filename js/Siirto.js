@@ -45,3 +45,4 @@ define(["require", "exports"], function (require, exports) {
     }(Siirto));
     exports.SyontiSiirto = SyontiSiirto;
 });
+//# sourceMappingURL=Siirto.js.map

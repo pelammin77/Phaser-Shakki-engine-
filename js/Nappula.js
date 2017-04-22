@@ -64,3 +64,4 @@ define(["require", "exports"], function (require, exports) {
     exports.Nappula = Nappula;
     exports.default = Nappula;
 });
+//# sourceMappingURL=Nappula.js.map

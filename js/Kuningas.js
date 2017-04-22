@@ -69,3 +69,4 @@ define(["require", "exports", "./Nappula", "./apu", "./Siirto"], function (requi
     exports.Kuningas = Kuningas;
     exports.default = Kuningas;
 });
+//# sourceMappingURL=Kuningas.js.map

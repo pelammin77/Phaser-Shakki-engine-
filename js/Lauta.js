@@ -260,3 +260,4 @@ define(["require", "exports", "./ruutu", "./apuEnumit", "./sotilas", "./ratsu", 
     exports.Lauta = Lauta;
     exports.default = Lauta;
 });
+//# sourceMappingURL=Lauta.js.map

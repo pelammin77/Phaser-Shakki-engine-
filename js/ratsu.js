@@ -75,3 +75,4 @@ define(["require", "exports", "./Nappula", "./apu", "./Siirto"], function (requi
     exports.Ratsu = Ratsu;
     exports.default = Ratsu;
 });
+//# sourceMappingURL=ratsu.js.map

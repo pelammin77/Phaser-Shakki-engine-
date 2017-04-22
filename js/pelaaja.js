@@ -69,3 +69,4 @@ define(["require", "exports"], function (require, exports) {
     exports.Pelaaja = Pelaaja;
     exports.default = Pelaaja;
 });
+//# sourceMappingURL=pelaaja.js.map
